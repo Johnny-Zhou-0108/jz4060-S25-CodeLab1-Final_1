@@ -1,5 +1,6 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+Johnny_Final Part1
 
-DO NOT LEAVE IT LIKE THIS!!!
+I want to crate a tool that whatever novel you put in, you can get a similar experience of Disco Elysium.
+Where you can go to different places and have dynamic interactions with NPCs existing in that novel.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+It's built on the logic of my thesis project, a more experimental version.
